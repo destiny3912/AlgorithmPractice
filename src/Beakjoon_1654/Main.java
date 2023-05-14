@@ -1,4 +1,4 @@
-package Beakhoon_1654;
+package Beakjoon_1654;
 
 import java.io.BufferedReader;
 import java.io.IOException;
